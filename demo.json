@@ -30,9 +30,9 @@
 					"credit": ""
 				},
 				"location": {
-					"lat": 72.39570570653261,
+					"lat": 1,
 					"line": true,
-					"lon": -149.765625,
+					"lon": 1,
 					"zoom": 1
 				},
 				"background": {
@@ -40,7 +40,7 @@
 					"opacity": 100
 				},
 				"text": {
-					"headline": "Point one",
+					"headline": "1,1 - Point one",
 					"text": ""
 				}
 			},
